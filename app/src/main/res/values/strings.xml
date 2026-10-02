@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tostimer</string>
+    <string name="widget_description">Start and watch your tosti timer from the home screen</string>
+    <string name="channel_running">Timer running</string>
+    <string name="channel_alert">Tosti almost ready</string>
+    <string name="channel_alarm">Tosti ready alarm</string>
+</resources>

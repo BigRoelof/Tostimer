@@ -1,0 +1,8 @@
+<resources>
+    <color name="toast_background">#FFD95A</color>
+    <color name="toast_primary">#D9402B</color>
+    <color name="toast_text">#3A2212</color>
+    <color name="toast_button_text">#FFF4D6</color>
+    <color name="toast_button_secondary">#3A2212</color>
+    <color name="icon_background">#FFD95A</color>
+</resources>
